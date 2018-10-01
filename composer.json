@@ -1,0 +1,20 @@
+{
+  "name": "SQL-to-API/sql-to-api-php",
+  "description": "The Sql to API implementation for PHP",
+  "minimum-stability": "stable",
+  "license": "The Unlicense",
+  "authors": [
+    {
+      "name": "Dmitriy Haralson",
+      "email": "diharalson@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload":{
+    "psr-4":{
+      "SqlToApiPhp\\":"SqlToApiPhp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+vendor/
+cov.html/
+.komodotools/
+.idea/
+*.txt
+*.komodoproject
+/nbproject/
+output/
